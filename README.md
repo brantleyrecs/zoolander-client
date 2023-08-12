@@ -1,3 +1,5 @@
+Worked on the Students page and Assignments page with all the promises needed for both to have full CRUD. Also did the remembrance page as well as worked in the home page (index.js).
+
 # React/Next.js Template
 
 [See Live Demo of this Template](https://drt-next-js-template.netlify.app/)
